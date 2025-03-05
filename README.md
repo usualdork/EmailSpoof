@@ -52,8 +52,8 @@ A modern, responsive web app that lets you hack the very DNA of emails! Transfor
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/email-analyzer.git
-cd email-analyzer
+git clone https://github.com/usualdork/EmailSpoof
+cd EmailSpoof
 ```
 2. Create and activate a virtual environment (recommended)
 ```bash
